@@ -299,11 +299,11 @@ MFC宏
  
  #### 橙武
  1.对比下图技能占比，打木桩，临源占比最高就是对的  
- ![image]([https://github.com/iderfl/-cw-/assets/90140812/d83997e1-8f8a-4ff1-8ca2-99d17c1ef7f6](https://github.com/iderfl/-cw-/blob/main/%E5%9B%BE%E7%89%87/%E6%A9%99%E6%AD%A6DPS.png))
+ ![image](https://github.com/iderfl/-cw-/blob/main/%E5%9B%BE%E7%89%87/%E6%A9%99%E6%AD%A6DPS.png)  
 
  #### 紫武
  1.看五分钟技能数量  
-![image]([https://github.com/iderfl/-cw-/assets/90140812/e15aff72-13b4-4692-9400-ade2da032fc6](https://github.com/iderfl/-cw-/blob/main/%E5%9B%BE%E7%89%87/%E7%B4%AB%E6%AD%A6DPS.png))  
+![image](https://github.com/iderfl/-cw-/blob/main/%E5%9B%BE%E7%89%87/%E7%B4%AB%E6%AD%A6DPS.png)  
  2.看技能释放顺序 
 | 战斗时间 | 技能 | 
 | :----: | :----: | 
