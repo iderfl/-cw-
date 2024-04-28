@@ -265,10 +265,10 @@
 > [!TIP]
 > 橙武/紫武/MFC三模式需要使用
 
-	/fcast 水月无间
+	/fcast [bufftime:璃光浮远>0] 水月无间
 	/cast [tnobuff:兰摧玉折&nobuff:璃光浮远|nobuff:钟灵] 兰摧玉折
-	/cast [tnobuff:快雪时晴&nobuff:璃光浮远] 快雪时晴
-	/fcast [buff:璃光浮远] 玉石俱焚
+	/fcast [bufftime:璃光浮远>0] 玉石俱焚
+	/cast 快雪时晴
 
 修复一键宏（可以拖一个到顺手的位置，如果卡按键了自己按到炸出玉石可以继续按键）
 > [!TIP]
