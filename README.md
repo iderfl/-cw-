@@ -184,7 +184,7 @@
 
 ### 二、导入花间监控
 
-[[雾海寻龙]花间监控.jx3dat](https://github.com/iderfl/-cw-/blob/main/%5B%E9%9B%BE%E6%B5%B7%E5%AF%BB%E9%BE%99%5D%E8%8A%B1%E9%97%B4%E7%9B%91%E6%8E%A7.jx3dat)
+[雾海寻龙]花间监控.jx3dat
 
 ### 三、进行取图
 
