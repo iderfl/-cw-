@@ -5,7 +5,18 @@
 
 
 # 更新日志
+<details>
+<summary>[雾海寻龙]橙武宏更新，2024年5月8日</summary>  
 
+	/fcast [bufftime:璃光浮远>0] 水月无间
+	/fcast [bufftime:璃光浮远>0] 玉石俱焚
+	/cast [tnobuff:兰摧玉折&nobuff:璃光浮远] 兰摧玉折
+	/cast [tbuff:兰摧玉折] 快雪时晴 
+* 修复橙武宏不打兰摧
+* 正确的橙武循环应该是 ___玉石-玉石-玉石-玉石-兰摧-快雪-（墨海）-（芙蓉）-玉石___
+
+
+</details> 
 <details>
 <summary>[雾海寻龙]橙武花间bate4更新，2024年5月7日</summary>  
  
@@ -301,9 +312,9 @@
 > 橙武/紫武/MFC三模式需要使用
 
 	/fcast [bufftime:璃光浮远>0] 水月无间
-	/cast [tnobuff:兰摧玉折&nobuff:璃光浮远|nobuff:钟灵] 兰摧玉折
 	/fcast [bufftime:璃光浮远>0] 玉石俱焚
-	/cast 快雪时晴
+	/cast [tnobuff:兰摧玉折&nobuff:璃光浮远] 兰摧玉折
+	/cast [tbuff:兰摧玉折] 快雪时晴
 
 修复一键宏（可以拖一个到顺手的位置，如果卡按键了自己按到炸出玉石可以继续按键）
 > [!TIP]
